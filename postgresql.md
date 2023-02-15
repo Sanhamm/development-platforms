@@ -109,3 +109,4 @@ og trygg iforhold til påliotelighet enn mange av de andre databasene.
 * PostgreSQL Planet - Blogg aggregasjon: https://planet.postgresql.org/
 * PostgreSQL Weekly nyhetsbrev: https://postgresweekly.com/
 * PostgreSQL vs mySQL -blogg: https://kinsta.com/blog/postgresql-vs-mysql/
+* 
